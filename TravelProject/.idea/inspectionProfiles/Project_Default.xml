@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="travelproject.settings" />
+          <option value="travelingproject.settings" />
+          <option value="travel1project.settings" />
+          <option value="foodproject.settings" />
+          <option value="ecommerceproject.settings" />
+          <option value="ecommerceproject1.*" />
+          <option value="ecommerceproject.ecommerceproject.urls.settings" />
+          <option value="ecommerceproject.sett" />
+          <option value="django.conf.urls.settings" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
